@@ -82,7 +82,7 @@ Flowchart
 -----------
 
 This is the flowchart of the program
-![Flowchart] (Flowchart_Assignment1.jpeg)	
+![Flowchart](Flowchart_Assignment1.jpeg)	
 
 Future Implementation
 ------------------------
