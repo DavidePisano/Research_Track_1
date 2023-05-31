@@ -2,7 +2,7 @@
 
 Pisano Davide 4363394
 
-## Description of the Assignment
+## Description of the Repositery
 
 In this repository there are the two tasks of the Research Track 1 course.
 
